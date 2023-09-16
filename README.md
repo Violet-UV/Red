@@ -1,1 +1,1 @@
-Taylor Swift caused an earthquake 
+Taylor Swift caused an earthquake :D more like a swiftquake
