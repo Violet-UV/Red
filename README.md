@@ -35,3 +35,16 @@ I need to highlight these ==very important words==.
 [title](https://www.example.com)
 
 ![alt text](image.jpg)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
