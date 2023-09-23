@@ -1,6 +1,37 @@
-Taylor Swift caused an earthquake :D 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
-1. crazy fans 
-2. what do you expect
-3. taylor is better :>
+No. :disgusted:
 
+I need to highlight these ==very important words==.
+
+# H1
+## H2
+### H3
+
+**the bolder the better**
+
+*wooooo*
+
+	> noooo why block
+
+1. TAYLOR
+2. IS
+3. BETTER
+
+- Because
+- Why
+- Not
+
+`code`
+
+---
+
+[title](https://www.example.com)
+
+![alt text](image.jpg)
